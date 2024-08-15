@@ -4,10 +4,9 @@ headers = {
 }
 
 user_body = {
-    "firstName": "John",
-    "lastName": "Doe",
-    "email": "john.doe@example.com",
-    "password": "securepassword"
+    "firstName": "Max",
+        "phone": "+10005553535",
+        "address": "8042 Lancaster Ave.Hamburg, NY"
 }
 
 product_ids = {
